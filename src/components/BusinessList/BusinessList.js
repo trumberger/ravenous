@@ -7,12 +7,13 @@ class BusinessList extends React.Component {
 	render() {
 		return (
 			<div className="BusinessList">
-  			<Business /> 
-				<Business />
-				<Business />
-				<Business />
-				<Business />
-				<Business />
+				{
+					// Access the businesses prop and call the .map method
+					this.props.businesses.map(business => {
+						// Callback function that returns a <Business /> with a property = parameter of the callback funciton
+						return <Business business={business} />
+					})
+				}
 			</div>
 			);
 	}

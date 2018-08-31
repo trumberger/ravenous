@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"Busi",
+				"Business"
+			],
+			[
+				"bu",
+				"Business"
+			],
+			[
+				"busin",
+				"businesses"
+			],
+			[
+				"busines",
+				"business"
+			],
+			[
 				"Business",
 				"BusinessList"
 			],
@@ -148,53 +164,28 @@
 	"buffers":
 	[
 		{
-			"file": "src/components/SearchBar/SearchBar.js",
-			"settings":
-			{
-				"buffer_size": 1247,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "src/App.css",
-			"settings":
-			{
-				"buffer_size": 987,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "src/App.js",
 			"settings":
 			{
-				"buffer_size": 383,
+				"buffer_size": 891,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/bwa_u2_ravenous_solution_1/src/components/SearchBar/SearchBar.js",
+			"file": "src/components/BusinessList/BusinessList.js",
 			"settings":
 			{
-				"buffer_size": 920,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/bwa_u2_ravenous_solution_1/src/components/App/App.js",
-			"settings":
-			{
-				"buffer_size": 363,
-				"line_ending": "Unix"
+				"buffer_size": 647,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "src/components/Business/Business.js",
 			"settings":
 			{
-				"buffer_size": 1295,
+				"buffer_size": 1000,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -241,15 +232,23 @@
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/public",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/BusinessList",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/SearchBar"
 	],
 	"file_history":
 	[
+		"/C/Users/v-tyrum/Downloads/bwa_u2_ravenous_solution_2/bwa_u2_ravenous_solution_2/src/components/BusinessList/BusinessList.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/BusinessList/BusinessList.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/Business/Business.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/App.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/App.css",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/SearchBar/SearchBar.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/bwa_u2_ravenous_solution_1/src/components/App/App.js",
+		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/bwa_u2_ravenous_solution_1/src/components/SearchBar/SearchBar.js",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/Business/Business.css",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/SearchBar/SearchBar.css",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/BusinessList/BusinessList.js",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/public/index.html",
-		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/src/components/BusinessList/BusinessList.css",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/ravenous/public/reset.css",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/minesweeper/src/board.js",
 		"/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/SampleReactApp/sample-react-app/src/App.js",
@@ -308,24 +307,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "src/components/SearchBar/SearchBar.js",
+					"file": "src/App.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1247,
+						"buffer_size": 891,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								276,
-								276
+								891,
+								891
 							]
 						],
 						"settings":
@@ -333,87 +332,56 @@
 							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/App.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 987,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								382,
-								382
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "src/App.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 383,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								383,
-								383
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 214.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/bwa_u2_ravenous_solution_1/src/components/SearchBar/SearchBar.js",
+					"buffer": 1,
+					"file": "src/components/BusinessList/BusinessList.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 920,
+						"buffer_size": 647,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								536,
+								536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 125.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/components/Business/Business.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								821
 							]
 						],
 						"settings":
@@ -427,62 +395,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/C/Users/v-tyrum/OneDrive - Revel, Inc/Codecademy - JS/bwa_u2_ravenous_solution_1/src/components/App/App.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 363,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "src/components/Business/Business.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1295,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								445,
-								445
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
 					"type": "text"
 				}
 			]
