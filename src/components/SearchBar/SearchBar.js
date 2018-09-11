@@ -50,11 +50,11 @@ class SearchBar extends React.Component {
 
 	// renderSortByOptions is a method that iterates through the keys nad values of sortByOptions object and return a list item
 	renderSortByOptions() {
-		return Object.keys(sortByOptions).map(sortByOption => {
+		return Object.keys(this.sortByOptions).map(sortByOption => {
 			/* Accesses the sortByOptions values using the sortByOption parameter of the callback function
 			and then stores these values in a variable called sortByOptionValue*/
-			let sortByOptionValue = sortByOptions[sortByOption];
-			return (<li onClick={this.handleSortByCHange.bind(this, sortByOptionValue)} 
+			let sortByOptionValue = this.sortByOptions[sortByOption];
+			return (<li onClick={this.handleSortByChange.bind(this, sortByOptionValue)} 
 									className ={this.getSortByClass(sortByOptionValue)} 
 									key={sortByOptionValue}>
 								{sortByOption}
