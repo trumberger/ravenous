@@ -11,7 +11,7 @@ class BusinessList extends React.Component {
 					// Access the businesses prop and call the .map method
 					this.props.businesses.map(business => {
 						// Callback function that returns a <Business /> with a property = parameter of the callback funciton
-						return <Business business={business} />
+						return <Business key={business.id} business={business} />
 					})
 				}
 			</div>

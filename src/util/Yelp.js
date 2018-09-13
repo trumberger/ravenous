@@ -11,7 +11,7 @@ const Yelp = {
 			return response.json();
 		}).then(jsonResponse => {
 			if (jsonResponse.businesses) {
-				return jsonResponse.businesses.map(business => ({
+				return jsonResponse.businesses.map(business => {
 					id: business.id,
 					imageSrc: business.img_url,
   				name: business.name,
@@ -22,7 +22,7 @@ const Yelp = {
   				category: business.categories[0].title,
   				rating: business.rating,
   				reviewCount: business.review_count.
-				}));
+				});
 			}
 		});
 	}
